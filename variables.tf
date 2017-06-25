@@ -1,0 +1,9 @@
+variable "project_id" {}
+variable "region" {}
+variable "instance_count" {}
+variable "instance_name" {}
+variable "instance_type" {}
+variable "instance_zone" {}
+variable "instance_image" {}
+variable "gce_ssh_public_key_file" {}
+variable "gce_ssh_user" {}
